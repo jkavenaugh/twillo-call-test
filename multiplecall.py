@@ -7,6 +7,7 @@ from twilio.rest import TwilioRestClient
 	fromNumber = Your Twillo number
 	xmlPath = Public readable path to your xml. Dropbox will work for this.
 	
+	Change URL to wav file in xml file
 """
 account_sid = "12345"
 auth_token = "12345"
